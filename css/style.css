@@ -1,0 +1,81 @@
+body {
+  background-color: #273238;
+}
+h1 {
+  background-color: white;
+  color: #698392;
+  text-align: center;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  letter-spacing: 2px;
+  font-size: 500%;
+}
+p {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: white;
+  text-align: justify;
+}
+
+h2 {
+  color: #dcd1cb;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 900;
+  font-style: italic;
+  font-size: 200%;
+  font-variant: small-caps;
+  letter-spacing: 1px;
+  text-transform: capitalize;
+}
+
+#asp {
+  color: #eccec0;
+}
+#cel {
+  color: #a1c1cb;
+}
+#conso {
+  color: #bcbdbf;
+}
+#homt {
+  color: #8d94a1;
+}
+#tele {
+  color: #b2b2aa;
+}
+img {
+    width:600px;
+    padding: 1px;
+}
+
+#aspiradora {
+    border-color: #eccec0;
+    border-style: solid;
+    border-width: 5px;
+    margin-left: 50px;
+}
+#celular {
+    border-color: #a1c1cb;
+    border-style: solid;
+    border-width: 5px;
+    margin-left: 50px;
+}
+#consola {
+    border-color: #bcbdbf;
+    border-style: solid;
+    border-width: 5px;
+    margin-left: 50px;
+}
+#hometheaters {
+    border-color: #8d94a1;
+    border-style: solid;
+    border-width: 5px;
+    margin-left: 50px;
+}
+#televisor {
+    border-color: #b2b2aa;
+    border-style: solid;
+    border-width: 5px;
+    margin-left: 50px;
+}
+
+
